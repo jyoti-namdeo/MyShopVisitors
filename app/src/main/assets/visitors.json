@@ -1,0 +1,63 @@
+{
+  "venue": {
+    "id": 123456,
+    "name": "My Shop",
+    "openTime": 1479798000000,
+    "closeTime": 1479864600000,
+    "visitors": [
+      {
+        "id": 1,
+        "name": "Nick",
+        "arriveTime": 1479805200000,
+        "leaveTime": 1479816000000
+      },
+      {
+        "id": 2,
+        "name": "Riya",
+        "arriveTime": 1479801600000,
+        "leaveTime": 1479819600000
+      },
+      {
+        "id": 3,
+        "name": "Jack",
+        "arriveTime": 1479826800000,
+        "leaveTime": 1479830400000
+      },
+      {
+        "id": 4,
+        "name": "Joshua",
+        "arriveTime": 1479834000000,
+        "leaveTime": 1479834900000
+      },
+      {
+        "id": 5,
+        "name": "Rimi",
+        "arriveTime": 1479823200000,
+        "leaveTime": 1479830400000
+      },
+      {
+        "id": 6,
+        "name": "Mathew",
+        "arriveTime": 1479819600000,
+        "leaveTime": 1479825000000
+      },
+      {
+        "id": 7,
+        "name": "Slava",
+        "arriveTime": 1479801600000,
+        "leaveTime": 1479803400000
+      },
+      {
+        "id": 8,
+        "name": "Konstant",
+        "arriveTime": 1479823200000,
+        "leaveTime": 1479832200000
+      },
+      {
+        "id": 8,
+        "arriveTime": 1479823200000,
+        "leaveTime": 1479832200000
+      }
+    ]
+  }
+}
