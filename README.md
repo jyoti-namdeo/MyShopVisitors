@@ -1,7 +1,7 @@
 
 ## Background
 
-Venue Visitors: The app shows information about who is visiting the shop. It shows how many visiters are visited the shop at a partucular time and when it is idle. 
+Shop Visitors: The app shows information about who is visiting the shop. It shows how many visiters have visited the shop at a partucular time and when it is idle. 
 
 ## Getting Started
 
